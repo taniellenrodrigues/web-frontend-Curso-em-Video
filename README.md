@@ -1,4 +1,4 @@
-# web-frontend-Curso-em-Video
+# web-frontend-guanabara
 # 🌐 Estudos de HTML5, CSS3 e JavaScript — Curso em Vídeo
 
 Este repositório reúne meus estudos, exercícios e projetos desenvolvidos durante o curso de **HTML, CSS e JavaScript do Gustavo Guanabara (Curso em Vídeo)**.
